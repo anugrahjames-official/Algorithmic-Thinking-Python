@@ -1,0 +1,5 @@
+print("Hello World")
+print("Hello")
+print(5)
+print("Vimal Jyothi")
+print(4+5)
